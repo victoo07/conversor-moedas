@@ -7,13 +7,13 @@
     border-radius: 10px; /* Adiciona bordas arredondadas com raio de 10px */
     width: 400px; /* Define a largura fixa de 400px */
     margin: 2rem auto; /* Centraliza horizontalmente o contêiner */
-    background-color: #f8f9fa; /* Define a cor de fundo */
+    background-color: #f7ffaf; /* Define a cor de fundo */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
    }
    
    /* Define o estilo para o título */
    .converter h2 {
-    color: #343a40; /* Define a cor do texto */
+    color: #0080ff; /* Define a cor do texto */
     font-size: 1.8rem; /* Define o tamanho da fonte */
     margin-bottom: 2rem; /* Adiciona uma margem inferior de 2rem */
    }
@@ -27,7 +27,7 @@
     border-radius: 4px; /* Adiciona bordas arredondadas com raio de 4px */
     font-size: 1rem; /* Define o tamanho da fonte */
     color: #495057; /* Define a cor do texto */
-    background-color: #fff; /* Define a cor de fundo */
+    background-color: #a5c7cc; /* Define a cor de fundo */
     border: 1px solid #ced4da; /* Adiciona uma borda sólida de 1px com cor #ced4da */
    }
    
